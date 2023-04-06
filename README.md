@@ -1,1 +1,1 @@
-Experimental navcons for map parpax
+Experimental navcons for some maps
